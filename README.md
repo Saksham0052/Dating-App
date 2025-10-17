@@ -51,7 +51,7 @@ The app currently focuses on **UI and core features** like authentication, filte
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/flutter-dating-app.git
+git clone https://github.com/Saksham0052/Dating-App
 cd flutter-dating-app
 ```
 
