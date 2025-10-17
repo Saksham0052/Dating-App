@@ -9,6 +9,9 @@ The app currently focuses on **UI and core features** like authentication, filte
 
 [![Watch the demo](https://www.loom.com/share/8037d806ca73484f887637fd13d1f4f7?sid=f9e6f955-feb7-4ba5-817e-d8604fb53334)
 
+## Pictures (How pages look)
+<img width="655" height="300" alt="Screenshot 2024-11-17 174723" src="https://github.com/user-attachments/assets/20efc606-4db4-4941-80ac-d88abb25d85c" />
+
 
 ## ✨ Features
 
